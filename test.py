@@ -1,4 +1,4 @@
 import requests
 
-r = requests.get("https://naver.com")
+r = requests.get("https://yahoo.com")
 print(r.text())
